@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FSandimu
-- 👀 I’m interested in app development and web development 
-- 🌱 I’m currently learning app development 
-- 💞️ I’m looking to collaborate on cyber security 
+- 👋 Hi, I’m Fransicah Sandimu
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on cyber security, web development and artificial intelligence
 - 📫 How to reach me @Fsandimu on Twitter 
 
 <!---
