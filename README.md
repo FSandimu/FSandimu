@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fransicah Sandimu
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on cyber security, web development and artificial intelligence
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently learning machine learnin and AI 
+- 💞️ I’m looking to collaborate on cyber security, machine learning and artificial intelligence
 - 📫 How to reach me @Fsandimu on Twitter 
 
 <!---
