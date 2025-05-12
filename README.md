@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fransicah Sandimu
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning machine learnin and AI 
+- 👀 I’m interested in data analaytics
+- 🌱 I’m currently learning data analytics and cyber security
 - 💞️ I’m looking to collaborate on cyber security, machine learning and artificial intelligence
 - 📫 How to reach me @Fsandimu on Twitter 
 
